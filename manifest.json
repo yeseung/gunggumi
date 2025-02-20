@@ -16,5 +16,22 @@
     "side_panel": {
         "default_path": "sidepanel.html"
     },
-    "permissions": ["sidePanel"]
+    "permissions": ["sidePanel"],
+    "host_permissions": [
+        "https://comkijung.com/",
+        "https://www.youtube.com/channel/UCRslqvDMF8ZFdcvnrqAXL0g",
+        "https://xn--2e0bobz35eppszrcgxh.com/",
+        "https://smartstore.naver.com/ajjulcom",
+        "https://xn--2e0baa5fq39anxnwubw2q8ik1xdh98a.com/",
+        "https://xn--2e0bobz35eppszrcgxh.com/%ec%88%98%eb%a6%ac%ec%84%9c%eb%b9%84%ec%8a%a4/",
+        "https://4594.kr/",
+        "https://xn--2e0bob864d15bq5x.com/",
+        "https://www.youtube.com/@%EA%B2%9C%EA%B8%B0%EC%A0%95Tv-v5k",
+        "https://e999999999999999.cafe24.com/*",
+        "https://k999998889698576.cafe24.com/*",
+        "https://xn--hs0bl3k.com/",
+        "http://webmail.gunggumi.com/",
+        "https://adviser85.synology.me:63744/",
+        "https://xn--o80b71uztc4kx9xxzojqc.com/"
+    ]
 }
